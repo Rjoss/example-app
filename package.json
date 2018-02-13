@@ -21,8 +21,5 @@
     "grunt": "^1.0.2",
     "grunt-serve": "^0.1.6",
     "jquery": "^3.3.1"
-  },
-  "now": {
-    "name": "RL Demo App"
   }
 }
