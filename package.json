@@ -1,0 +1,25 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "deployment demo",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rjoss/example-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rjoss/example-app/issues"
+  },
+  "homepage": "https://github.com/Rjoss/example-app#readme",
+  "devDependencies": {
+    "google-news": "^1.4.6",
+    "grunt": "^1.0.2",
+    "grunt-serve": "^0.1.6",
+    "jquery": "^3.3.1"
+  }
+}
