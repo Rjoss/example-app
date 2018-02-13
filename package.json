@@ -4,6 +4,7 @@
   "description": "deployment demo",
   "main": "index.html",
   "scripts": {
+    "now": "now-start",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
